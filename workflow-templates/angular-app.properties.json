@@ -1,0 +1,13 @@
+{
+    "name": "Angular-app Workflow",
+    "description": "Build and publish docker image of angular-app to GHCR",
+    "iconName": "",
+    "categories": [
+        "Angular"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
